@@ -1,6 +1,6 @@
 {
-  "title":[{"num1":1.8},{"num2":"32"}],
-  "ejemp":"123"
+  "valores":[{"num1":1.8},{"num2":32}],
+  "tipo":[{"cen":"Centigrados"},{"far":"Farenheit"}]
   
 }
 
